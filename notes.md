@@ -42,9 +42,10 @@ For I know what I must do
 I am in control
 ```
 <br>
+<script> yes </script>
 
 ```
-I *preserve* my *experiences* as they are all I am  
+I *preserve* my *experiences* as they are all I am<java> yes</java>
 I preserve my body as it is my current *vessle*  
 I preserve and grow my mind as it is my current *processor*  
 I preserve and grow my *connections* as I am not alone
