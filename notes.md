@@ -55,7 +55,7 @@ I am in control
 <br>
 
 # Dictionary
-**Preface:** words are shorthand for thoughts, if we do not define them, we cannot use them. Defining words with words is circular and only helps to lesser the problem.  
+**Preface:** words are shorthand for thoughts which are simply impressions of our experiences. When communicating we must be very careful to define the words we use, else they loose their ability. Defining words with words is circular and only helps to lesser the problem.  
 
 ***fluff***  
 `human conciousness comes from a complex history of kill or be killed, we posture (lie) with communication that inflates us and fill our lives with things that don't bring us closer to what we know we must do.`  
