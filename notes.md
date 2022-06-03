@@ -1,6 +1,6 @@
 For I Know What I Must Do
 ====  
-[by Cal](https://caldayham.com "go to https://caldayham.com")
+by [Cal](https://caldayham.com "go to https://caldayham.com")
 
 ----
 ```
@@ -31,8 +31,25 @@ I am in control
 I am in control  
 For I know what I must do  
 
-I am a person who delivers  
 I do not blame others for my own shortcomings  
+I am a person who delivers  
+I do things efficiently  
+I *consider* the *problem* before acting  
+
+For I know what I must do
+I am in control
+```
+```
+I am in control  
+For I know what I must do  
+
+I *preserve* my *experiences* as they are all I am  
+I preserve my body as it is my current *vessle*  
+I preserve and grow my mind as it is my current *processor*  
+I preserve and grow my *connections* as I am not alone
+
+For I know what I must do  
+I am in control 
 ```
 ----
 
