@@ -42,9 +42,8 @@ For I know what I must do
 I am in control
 ```
 <br>
-<script> yes </script>
 
-```
+```js
 I *preserve* my *experiences* as they are all I am<java> yes</java>
 I preserve my body as it is my current *vessle*  
 I preserve and grow my mind as it is my current *processor*  
@@ -66,3 +65,5 @@ I am in control
 
 ***goals***  
 `achievable marks towards completing the ultimate`
+
+<p align="right">(<a href="#top">back to top</a>)</p>
