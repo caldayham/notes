@@ -2,8 +2,6 @@ For I Know What I Must Do
 ====  
 by Cal Day Ham  
 
-----
-
 >I am in control  
 >For I know what I must do  
 >
@@ -14,6 +12,7 @@ by Cal Day Ham
 >
 >For I know what I must do  
 >I am in control  
+ 
 
 >I am in control  
 >For I know what I must do  
@@ -26,13 +25,13 @@ by Cal Day Ham
 >For I know what I must do  
 >I am in control  
 
+
 >I am in control  
 >For I know what I must do  
 >
 >I am a person who delivers  
 >I do not blame others for my own shortcomings  
 
-----
 
 Dictionary
 ====
