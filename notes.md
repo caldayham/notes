@@ -1,5 +1,5 @@
-<h1 align="center">For I Know What I Must Do</h1>
-<p align="center">
+<h1 align="left">For I Know What I Must Do</h1>
+<p align="left">
 <a href="https://caldayham.com"><strong>Cal Day Ham »</strong></a>  
 <p>
 <br>
