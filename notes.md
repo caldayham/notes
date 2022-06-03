@@ -1,6 +1,6 @@
 ## For I Know What I Must Do
-
-By Cal Day Ham, mantra
+===============
+by Cal Day Ham
 ----
 I am in control<br>
 For I know what I must do  
