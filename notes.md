@@ -1,4 +1,4 @@
-# For I Know What I Must Do  
+<h3 align="center">For I Know What I Must Do</h3> 
 by [Cal »](https://caldayham.com "go to https://caldayham.com")
 
 ---
@@ -7,7 +7,7 @@ I am in control
 For I know what I must do  
 ```
 ```
-I set *high goals* and *exceed* them  
+I set high *goals* and *exceed* them  
 I do not *fall* to lower *standards*  
 I do not fall in the face of *difficulty*  
 I do not fall to my own *shortcomings*  
@@ -48,8 +48,9 @@ I am in control
 
 ***fluff***  
 `human conciousness comes from a complex history of kill or be killed, we posture (lie) with communication that inflates us and fill our lives with things that don't bring us closer to what we know we must do.`  
-this is *fluff*
 
 ***closer***
 `to bring things into your line of action`
-this is *closer*
+
+***goals***
+`achievable marks towards completing the ultimate`
