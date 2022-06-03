@@ -4,10 +4,11 @@
 <p>
 
 ```
-```
 I am in control  
 For I know what I must do  
 ```
+<br>
+
 ```
 I set high *goals* and *exceed* them  
 I do not *fall* to lower *standards*  
@@ -43,7 +44,6 @@ I preserve and grow my *connections* as I am not alone
 
 For I know what I must do  
 I am in control 
-```
 ```
 # Dictionary
 **Preface:** words are shorthand for thoughts, if we do not define them, we cannot use them. Defining words with words is circular and only helps to lesser the problem.  
