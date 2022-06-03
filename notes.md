@@ -1,6 +1,6 @@
 For I Know What I Must Do
 ====  
-by [Cal](https://caldayham.com "go to https://caldayham.com")
+[by Cal](https://caldayham.com "go to https://caldayham.com")
 
 ----
 ```
