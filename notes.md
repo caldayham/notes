@@ -55,7 +55,7 @@ I am in control
 <br>
 
 # Dictionary
-**Preface:** words are shorthand for thoughts which are simply impressions of our experiences. When communicating we must be very careful to define the words we use, else they loose their ability. Defining words with words is circular, defining them with experiences would be better, but this can help increase the accuracy of the shorthand.  
+**Preface:** words are shorthand for thoughts which are simply impressions of our experiences. When communicating we must be very careful to define the words we use, else they loose their ability. Defining words with words is circular but can increase the accuracy of the shorthand, defining them with experiences would be better but is hard to do in markdown ;)    
 <br>
 
 ***fluff***  
