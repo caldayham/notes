@@ -8,9 +8,9 @@ by Cal Day Ham
 I am in control  
 For I know what I must do  
 
-> I set *high goals* and *exceed* them  
-> I do not *fall* to lower *standards*  
-> I do not fall in the face of *difficulty*  
+>I set *high goals* and *exceed* them  
+>I do not *fall* to lower *standards*  
+>I do not fall in the face of *difficulty*  
 > I do not fall to my own *shortcomings*  
 >
 > For I know what I must do  
