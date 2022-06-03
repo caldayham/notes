@@ -1,7 +1,8 @@
 For I Know What I Must Do
 ====  
 by [Cal Day Ham](https://caldayham.com "go to https://caldayham.com")
-%md <a href="https://google.com" target="_blank">google link</a>
+<a href="https://google.com" target="_blank">google link</a>
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ----
 
