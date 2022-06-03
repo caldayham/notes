@@ -1,6 +1,6 @@
 For I Know What I Must Do
 ====  
-by [Cal Day Ham](https://caldayham.com "go to https://caldayham.com")
+by [Cal Day Ham](https://caldayham.com "go to https://caldayham.com"){:target="_blank"}
 
 ----
 
