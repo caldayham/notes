@@ -1,6 +1,6 @@
 For I Know What I Must Do
 ====  
-by Cal Day Ham  
+by [Cal Day Ham](https://caldayham.com)
 
 ----
 
@@ -16,7 +16,7 @@ I do not fall to my own *shortcomings*
 For I know what I must do  
 I am in control  
 ```
-____ 
+```
 I am in control  
 For I know what I must do  
 
@@ -27,14 +27,14 @@ I know the difference between love and *lust*
 
 For I know what I must do  
 I am in control  
-> 
-> 
+```
+```
 I am in control  
 For I know what I must do  
 
 I am a person who delivers  
 I do not blame others for my own shortcomings  
-
+```
 
 Dictionary
 ====
