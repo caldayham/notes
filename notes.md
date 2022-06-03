@@ -11,8 +11,8 @@ For I know what I must do
 <br>
 
 ```
-I set high *goals* and *exceed* them  
-I do not *fall* to lower *standards*  
+I set high *goals* and exceed them  
+I do not fall to lower *standards*  
 I do not fall in the face of *difficulty*  
 I do not fall to my own *shortcomings*  
 
@@ -44,10 +44,10 @@ I am in control
 <br>
 
 ```
-I *preserve* my *experiences* as they are all I am
-I preserve my body as it is my current *vessle*  
-I preserve and grow my mind as it is my current *processor*  
-I preserve and grow my *connections* as I am not alone
+I *preserve* my *experiences*, as they are all I am
+I *nurture* my body, as it is my current *vessle*  
+I nurture my *mind*, as it is my current *processor*  
+I nurture my *connections* as I am not alone
 
 For I know what I must do  
 I am in control 
