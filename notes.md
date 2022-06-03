@@ -15,9 +15,6 @@ For I know what I must do
 I am in control
 ```
 ```
-I am in control  
-For I know what I must do  
-
 I act to change  
 I do not participate in *fluff*  
 I *find* things I love and bring them *closer*  
@@ -27,9 +24,6 @@ For I know what I must do
 I am in control
 ```
 ```
-I am in control  
-For I know what I must do  
-
 I do not blame others for my own shortcomings  
 I am a person who delivers  
 I do things efficiently  
@@ -39,9 +33,6 @@ For I know what I must do
 I am in control
 ```
 ```
-I am in control  
-For I know what I must do  
-
 I *preserve* my *experiences* as they are all I am  
 I preserve my body as it is my current *vessle*  
 I preserve and grow my mind as it is my current *processor*  
@@ -51,7 +42,6 @@ For I know what I must do
 I am in control 
 ```
 ---
-
 # Dictionary
 ### **Preface:** words are shorthand for thoughts, if we do not define them, we cannot use them. Defining words with words is circular and only helps to lesser the problem.  
 
