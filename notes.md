@@ -1,6 +1,7 @@
 For I Know What I Must Do
 ====  
 by [Cal](https://caldayham.com "go to https://caldayham.com")
+----
 
 ----
 ```
@@ -56,8 +57,8 @@ I am in control
 Dictionary
 ====
 **Preface:** words are shorthand for thoughts, if we do not define them, we cannot use them. Defining words with words is circular and only helps to lesser the problem.  
-
 ----
+
 *fluff* -> human conciousness comes from a complex history of kill or be killed, we posture (lie) with communication that inflates us and fill our lives with things that don't bring us closer to what we know we must do.  
 this is fluff  
 
