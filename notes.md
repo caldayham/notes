@@ -1,6 +1,6 @@
 <h1 align="left">For I Know What I Must Do</h1>
 <p align="left">
-<a href="https://caldayham.com"><strong>Cal Day Ham »</strong></a>  
+<a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal Day Ham »</strong></a>  
 <p>
 <br>
 
