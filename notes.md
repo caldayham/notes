@@ -1,6 +1,6 @@
-<h3 align="center">For I Know What I Must Do</h3> 
-by [Cal »](https://caldayham.com "go to https://caldayham.com")
-
+<h3 align="center">For I Know What I Must Do</h3>  
+<a align="center" href="https://caldayham.com"><strong>Cal Day Ham »</strong></a>  
+ 
 ---
 ```
 I am in control  
@@ -49,8 +49,8 @@ I am in control
 ***fluff***  
 `human conciousness comes from a complex history of kill or be killed, we posture (lie) with communication that inflates us and fill our lives with things that don't bring us closer to what we know we must do.`  
 
-***closer***
+***closer***  
 `to bring things into your line of action`
 
-***goals***
+***goals***  
 `achievable marks towards completing the ultimate`
