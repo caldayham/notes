@@ -1,26 +1,16 @@
-## For I Know What I Must Do
-By Cal Day Ham
-
+## For I Know What I Must Do  
+By Cal Day Ham  
 ----
-
 I am in control<br>
-For I know what I must do
+For I know what I must do  
 
+I will set high goals and exceed them  
+I will not fall down to lower standards  
+I will not fall down in the face of difficulty  
+I will not fall down to my own shortcomings  
 
-I will set high goals and exceed them
-
-I will not fall down to lower standards
-
-I will not fall down in the face of difficulty
-
-I will not fall down to my own shortcomings 
-
-
-For I know what I must do
-
-I am in control
-
-
+For I know what I must do  
+I am in control  
 ----
 
 
