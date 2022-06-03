@@ -43,8 +43,8 @@ I am in control
 ```
 <br>
 
-```js
-I *preserve* my *experiences* as they are all I am<java> yes</java>
+```
+I *preserve* my *experiences* as they are all I am
 I preserve my body as it is my current *vessle*  
 I preserve and grow my mind as it is my current *processor*  
 I preserve and grow my *connections* as I am not alone
@@ -58,7 +58,9 @@ I am in control
 **Preface:** words are shorthand for thoughts, if we do not define them, we cannot use them. Defining words with words is circular and only helps to lesser the problem.  
 
 ***fluff***  
-`human conciousness comes from a complex history of kill or be killed, we posture (lie) with communication that inflates us and fill our lives with things that don't bring us closer to what we know we must do.`  
+```
+human conciousness comes from a complex history of kill or be killed, we posture (lie) with communication that inflates us and fill our lives with things that don't bring us closer to what we know we must do.
+```
 
 ***closer***  
 `to bring things into your line of action`
