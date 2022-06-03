@@ -1,7 +1,7 @@
 ## For I Know What I Must Do
 By Cal Day Ham, his life mantra
 
---
+----
 
 I am in control
 
@@ -21,7 +21,7 @@ For I know what I must do
 I am in control
 
 
---
+----
 
 
 I am in control 
