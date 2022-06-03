@@ -8,17 +8,17 @@ by Cal Day Ham
 I am in control  
 For I know what I must do  
 
-I set high goals and exceed them  
-I do not fall to lower standards  
-I do not fall in the face of difficulty  
-I do not fall to my own shortcomings  
+I set *high goals* and *exceed* them  
+I do not *fall* to lower *standards*  
+I do not fall in the face of *difficulty*  
+I do not fall to my own *shortcomings*  
 
 For I know what I must do  
 I am in control  
 
 ----
 
-I am in control  
+> I am in control  
 For I know what I must do  
 
 I act to change  
@@ -35,7 +35,8 @@ I am in control
 For I know what I must do  
 
 I am a person who delivers  
-I will not
+I do not blame others for my own shortcomings  
+
 
 ----
 ----
