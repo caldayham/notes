@@ -5,7 +5,8 @@
 ```
 I am in control  
 For I know what I must do  
-
+```
+```
 I set *high goals* and *exceed* them  
 I do not *fall* to lower *standards*  
 I do not fall in the face of *difficulty*  
