@@ -1,11 +1,8 @@
 For I Know What I Must Do
 ====  
-by [Cal Day Ham](https://caldayham.com "go to https://caldayham.com")
-<a href="https://google.com" target="_blank">google link</a>
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+by [Cal](https://caldayham.com "go to https://caldayham.com")
 
 ----
-
 ```
 I am in control  
 For I know what I must do  
@@ -37,6 +34,7 @@ For I know what I must do
 I am a person who delivers  
 I do not blame others for my own shortcomings  
 ```
+----
 
 Dictionary
 ====
