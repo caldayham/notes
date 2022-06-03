@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://caldayham.com"><strong>Cal Day Ham »</strong></a>  
 <p>
+<br>
 
 ```
 I am in control  
@@ -18,6 +19,8 @@ I do not fall to my own *shortcomings*
 For I know what I must do  
 I am in control
 ```
+<br>
+
 ```
 I act to change  
 I do not participate in *fluff*  
@@ -27,6 +30,8 @@ I know the difference between love and *lust*
 For I know what I must do  
 I am in control
 ```
+<br>
+
 ```
 I do not blame others for my own shortcomings  
 I am a person who delivers  
@@ -36,6 +41,8 @@ I *consider* the *problem* before acting
 For I know what I must do
 I am in control
 ```
+<br>
+
 ```
 I *preserve* my *experiences* as they are all I am  
 I preserve my body as it is my current *vessle*  
@@ -45,6 +52,8 @@ I preserve and grow my *connections* as I am not alone
 For I know what I must do  
 I am in control 
 ```
+<br>
+
 # Dictionary
 **Preface:** words are shorthand for thoughts, if we do not define them, we cannot use them. Defining words with words is circular and only helps to lesser the problem.  
 
