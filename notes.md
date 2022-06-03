@@ -2,8 +2,7 @@
 <p align="center">
 <a href="https://caldayham.com"><strong>Cal Day Ham »</strong></a>  
 <p>
-
----
+```
 ```
 I am in control  
 For I know what I must do  
@@ -44,7 +43,7 @@ I preserve and grow my *connections* as I am not alone
 For I know what I must do  
 I am in control 
 ```
----
+```
 # Dictionary
 **Preface:** words are shorthand for thoughts, if we do not define them, we cannot use them. Defining words with words is circular and only helps to lesser the problem.  
 
