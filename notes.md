@@ -1,6 +1,7 @@
-<h3 align="center">For I Know What I Must Do</h3>  
-<a align="center" href="https://caldayham.com"><strong>Cal Day Ham »</strong></a>  
- 
+<h1 align="center">For I Know What I Must Do</h1>
+<p align="center">
+<a href="https://caldayham.com"><strong>Cal Day Ham »</strong></a>  
+<p>
 ---
 ```
 I am in control  
