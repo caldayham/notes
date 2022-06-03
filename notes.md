@@ -1,10 +1,9 @@
 ## For I Know What I Must Do
-By Cal Day Ham, his life mantra
+By Cal Day Ham
 
 ----
 
-I am in control
-
+I am in control<br>
 For I know what I must do
 
 
@@ -18,6 +17,7 @@ I will not fall down to my own shortcomings
 
 
 For I know what I must do
+
 I am in control
 
 
