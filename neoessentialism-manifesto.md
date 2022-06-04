@@ -24,7 +24,7 @@ by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</stro
 </details>
 <h1> </h1>
 
-# Core-Tenants  
+## Core-Tenants  
 
-## Purpose  
-## Logical  
+### Purpose  
+### Logical  
