@@ -7,7 +7,7 @@ by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</stro
 Bedrock foundation for continued conciousness.
 ```
 
-<details>
+<details align="right">
   <summary>Graph</summary>
   <ol>
 	<li>
