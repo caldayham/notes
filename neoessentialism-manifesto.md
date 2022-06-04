@@ -2,6 +2,7 @@
 <p align="left">
 by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</strong></a>  
 <p>
+A bedrock foundation for continued conciousness.
 <details>
   <summary>Graph</summary>
   <ol>
@@ -22,7 +23,7 @@ by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</stro
     </li>
   </ol>
 </details>
-<h1> </h1>
+<br>
 
 ## Core-Tenants  
 
