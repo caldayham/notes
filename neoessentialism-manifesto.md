@@ -9,7 +9,7 @@ Bedrock foundation for continued conciousness.
 
 <details align="right">
   <summary>Graph</summary>
-  <ol>
+  <ol align="right">
 	<li>
       <a href="#Overview">Overview</a>
     </li>
