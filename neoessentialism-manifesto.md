@@ -33,9 +33,10 @@ The bedrock foundation for continued conciousness.
 <br>
 
 ## Overview  
-What is your purpose? I have no fucking clue, 
-that said I am fairly certain that the first step is increasing your understanding of the world. Doing 
-so will allow you to set higher goal and reach them faster. If there is a purpose I am relativly confident 
+What is your purpose? I have no fucking clue. 
+That said I am fairly certain that the first step is increasing your understanding. Doing 
+so will allow you to set higher goals, reach them faster, and compound at a much faster rate. 
+If there is a purpose I am relativly confident 
 it does not reside in mediocraty or satisfaction in ones progress. Many people have come and gone, many 
 will likely do the same, but this is your shot. Put asside lack of free will as commonly accepted and 
 sit for a moment in the wonder of conciousness. If trillions of grains of sand were falling from the sky 
@@ -43,7 +44,7 @@ and, using that energy, developed systems that were as amazingly complex as our 
 spectacular. Your conciousness is spectacular.  
 
 So what is Neoessentialism and why am I trying to put a name to something that at it's heart is not much 
-more than a jumping point, a bedrock to build on?
+more than a jumping point, a bedrock to build on?  
 <br>
 
 ## Core-Tenants  
