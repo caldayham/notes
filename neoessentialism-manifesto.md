@@ -34,7 +34,7 @@ The bedrock foundation for continued conciousness.
 
 ## Overview  
 What is your purpose? I have no fucking clue. 
-That said I am fairly certain that the first step is increasing your understanding. Doing 
+That said, I'm fairly certain that the first step is increasing your understanding. Doing 
 so will allow you to set higher goals, reach them faster, and compound at a much faster rate. 
 If there is a purpose I am relativly confident 
 it does not reside in mediocraty or satisfaction in ones progress. Many people have come and gone, many 
