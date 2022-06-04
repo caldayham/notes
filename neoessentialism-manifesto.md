@@ -4,7 +4,7 @@ by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</stro
 <p>
 
 ```
-A bedrock foundation for continued conciousness.
+The bedrock foundation for continued conciousness.
 ```
 
 <details>
