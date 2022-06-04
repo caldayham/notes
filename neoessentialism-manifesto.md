@@ -1,10 +1,10 @@
-<h1 align="left">The Neoessentialism Manifesto</h1>
+<h1 align="left">Neoessentialism Manifesto</h1>
 <p align="left">
 by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</strong></a>  
 <p>
 
 ```
-The bedrock foundation for continued conciousness.
+Bedrock foundation for continued conciousness.
 ```
 
 <details>
@@ -51,3 +51,5 @@ more than a jumping point, a bedrock to build on?
 
 ### Purpose  
 ### Logical  
+### Fault  
+### Forward  
