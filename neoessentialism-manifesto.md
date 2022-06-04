@@ -2,9 +2,23 @@
 <p align="left">
 <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal Day Ham »</strong></a>  
 <p>
-<br>
-    <a href="">Core Tenants</a>
-    ·
-    <a href="">Practicing</a>
-    ·
-    <a href="">Dictionary</a>
+<details>
+  <summary>Graph</summary>
+  <ol>
+    <li>
+      <a href="#Core-Tenants">Core Tenants</a>
+      <ul>
+        <li><a href="#Purpose">Purpose</a></li>
+		<li><a href="#Logical">Logical</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#first-steps">First Step</a></li>
+		<li><a href="#practicing">Practicing</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
