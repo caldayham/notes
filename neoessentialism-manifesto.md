@@ -1,6 +1,6 @@
 <h1 align="left">The Neoessentialism Manifesto</h1>
 <p align="left">
-<a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal Day Ham »</strong></a>  
+by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal Day Ham</strong></a>  
 <p>
 <details>
   <summary>Graph</summary>
