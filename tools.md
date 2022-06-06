@@ -31,7 +31,6 @@ for self-discovery, but not all things need to be done that way, and shouldn't.
 ```spoon```
 ```handled dish-scrubber```
 
-<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -54,6 +53,5 @@ for self-discovery, but not all things need to be done that way, and shouldn't.
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
