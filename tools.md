@@ -35,9 +35,19 @@ for self-discovery, but not all things need to be done that way, and shouldn't.
   <summary>Tools</summary>
   <ol>
 		<details>
-		<summary>Disposable</summary>
-		<ol>
-		</ol>
+			<summary>Disposable</summary>
+			<ol>
+				<details>
+					<summary>Personal Hygiene</summary>
+					<ol>
+					</ol>
+				</details>
+				<details>
+					<summary>Kitchen</summary>
+					<ol>
+					</ol>
+				</details>
+			</ol>
 		</details>
 		<li>
 			<a>About The Project</a>
