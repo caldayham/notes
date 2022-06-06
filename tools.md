@@ -52,20 +52,21 @@ for self-discovery, but not all things need to be done that way, and shouldn't.
 					<ol>
 					<details>
 						<summary>Dry Goods</summary>
-						<ol>
-							<a>beans</a>
-							<a>rice</a>
-							<a>oats</a>
-							<a>peas</a>
-						</ol>
+						<ul>
+							<li><a>beans</a></li>
+							<li><a>rice</a></li>
+							<li><a>rolled oats</a></li>
+							<li><a>lentils</a></li>
+						</ul>
 					</details>
 					<details>
 						<summary>Wet Goods</summary>
 						<ul>
 							<li><a>vegetable oil</a></li>
 							<li><a>storred water</a></li>
-							<a>peanut butter</a>
-							<a>mayonaise</a>
+							<li><a>peanut butter</a></li>
+							<li><a>mayo</a></li>
+							<li><a>eggs</a></li>
 						</ul>
 					</details>
 					</ol>
