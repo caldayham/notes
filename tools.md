@@ -1,8 +1,8 @@
 <h1>Tools for a Neoessentialists life</h1>
 by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</strong></a>
 Feel free to fork this list for your own life, and help me build this tool!
-
-<br>  
+<br>
+<br>
 
 ```
 Neoessentialists rely on first principles to set and achieve goals. 
