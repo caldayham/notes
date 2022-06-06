@@ -8,7 +8,9 @@ Feel free to fork this list for your own life, and help me build this tool!
 Neoessentialists rely on first principles to set and achieve goals. 
 The ultimate goal is one of understanding, because to understand is to be free.
 ```
+<h1></h1>
 <br>
+
 
 ### Preface
 A tool, in the context of this document and in most references by myself, is a physical thing that facilitates 
