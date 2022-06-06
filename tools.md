@@ -62,10 +62,12 @@ for self-discovery, but not all things need to be done that way, and shouldn't.
 					<details>
 						<summary>Wet Goods</summary>
 						<ol>
-							<a>vegetable oil</a>
-							<a>storred water</a>
-							<a>peanut butter</a>
-							<a>mayonaise</a>
+							<ul>
+								<li><a>vegetable oil</a></li>
+								<li><a>storred water</a></li>
+								<a>peanut butter</a>
+								<a>mayonaise</a>
+							</ul>
 						</ol>
 					</details>
 					</ol>
