@@ -5,6 +5,8 @@ by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</stro
 
 ```
 Bedrock foundation for continued conciousness.
+Neoessentialists rely on first principles to set and achieve goals. 
+The ultimate goal is one of understanding, because to understand is to be free.
 ```
 <br>
 
