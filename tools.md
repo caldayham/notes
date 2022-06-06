@@ -3,7 +3,8 @@ by <a href="https://caldayham.com" title="go to caldayham.com"><strong>Cal</stro
 Feel free to fork this list for your own life, and help me build this tool!
 
 ```
-Neoessentialists rely on first principles to set and achieve goals. The ultimate goal is one of understanding, because to understand is to be free.
+Neoessentialists rely on first principles to set and achieve goals. 
+The ultimate goal is one of understanding, because to understand is to be free.
 ```
 <br>
 
