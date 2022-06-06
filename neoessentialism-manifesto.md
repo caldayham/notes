@@ -20,7 +20,17 @@ and, using that energy, developed systems that were as amazingly complex as our 
 spectacular. Your conciousness is spectacular.  
 
 So what is Neoessentialism and why am I trying to put a name to something that at it's heart is not much 
-more than a jumping point, a bedrock to build on?  
+more than a jumping point, a bedrock to build on?
+
+Why is it called "Neoessentialism"? Neo means new, some people have rose colored glasses for anything "new" 
+and some people have the opposite. New in this sense is simply meant to display that this bedrock, this
+framework that can be forked and merged and adapted, can do just that. The biggest mistake anyone can make
+is believeing they know everything, besides inaction of course, but they are often synonymous. Essentialism
+because it is one of the greatest inhibitors to have too much bloat. Choices are great if you can organize 
+and categorize them, but our current proccessors are not built to make good decisions when presented with 
+and overload of data. The essentials, the things that allow you to do what you need to and keep moving, are
+what you should build your life on. Additionally, showing that something is essential is a very first-principles
+type task, one that has many forward pointing benefits. There you go, Neoessentialism.   
 <br>
 
 ## Core-Tenants  
@@ -29,3 +39,5 @@ more than a jumping point, a bedrock to build on?
 ### Logical  
 ### Fault  
 ### Forward  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
