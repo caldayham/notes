@@ -35,7 +35,7 @@ for self-discovery, but not all things need to be done that way, and shouldn't.
   <summary>Tools</summary>
   <ol>
 		<details>
-			<summary>Disposable</summary>
+			<summary>Consumables</summary>
 			<ol>
 				<details>
 					<summary>Personal Hygiene</summary>
@@ -44,6 +44,79 @@ for self-discovery, but not all things need to be done that way, and shouldn't.
 				</details>
 				<details>
 					<summary>Kitchen</summary>
+					<ol>
+					</ol>
+				</details>
+				<details>
+					<summary>Food</summary>
+					<ol>
+					<details>
+						<summary>Dry Goods</summary>
+						<ol>
+							<a>beans</a>
+							<a>rice</a>
+							<a>oats</a>
+							<a>peas</a>
+						</ol>
+					</details>
+					<details>
+						<summary>Wet Goods</summary>
+						<ol>
+							<a>vegetable oil</a>
+							<a>storred water</a>
+							<a>peanut butter</a>
+							<a>mayonaise</a>
+						</ol>
+					</details>
+					</ol>
+				</details>
+			</ol>
+		</details>
+		<details>
+			<summary>Semi Consumables</summary>
+			<ol>
+				<details>
+					<summary>Personal Hygiene</summary>
+					<ol>
+					</ol>
+				</details>
+				<details>
+					<summary>Kitchen</summary>
+					<ol>
+					</ol>
+				</details>
+			</ol>
+		</details>
+		<details>
+			<summary>Reusables</summary>
+			<ol>
+				<details>
+					<summary>Personal Hygiene</summary>
+					<ol>
+					</ol>
+				</details>
+				<details>
+					<summary>Kitchen</summary>
+					<ol>
+					</ol>
+				</details>
+				<details>
+					<summary>Workplace</summary>
+					<ol>
+						<details>
+							<summary>Computer</summary>
+							<ol>
+							</ol>
+						</details>
+						<details>
+							<summary>Workbench</summary>
+							<ol>
+							</ol>
+						</details>
+					</ol>
+				</details>
+				<details>
+					<summary>Bedroom</summary>
 					<ol>
 					</ol>
 				</details>
