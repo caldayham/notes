@@ -47,6 +47,13 @@ type task, one that has many forward pointing benefits. There you go, Neoessenti
 Neoessentialism is, at its root, a goal oriented framework. That is to say that it is built to help those
 who implement it partially or wholly with completing goals. The only goal that is specifically laid out 
 in Neoessentialism is the goal of understanding. 
+
+Goals are much of life, this text uses a very extensible definition of the word goal, one in which it is
+a goal to make 10 million dollars in revenue in a year, but it is also a goal to have a better relationship
+with your family, or own a house. I don't think anyone would say that these aren't complete embodyments 
+of the colloqueal variant of 'goal', but I don't quite think that many people have grassped just how much of 
+life is acomplishing goals. Some goals may never be spoken or thought of, but they happen and, by the definition 
+employed here, are goals. 
 <br>
 <br>
 
