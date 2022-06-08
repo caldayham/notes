@@ -48,6 +48,7 @@ Neoessentialism is, at its root, a goal oriented framework. That is to say that 
 who implement it partially or wholly with completing goals. The only goal that is specifically laid out 
 in Neoessentialism is the goal of understanding. 
 <br>
+<br>
 
 ### Logical  
 Logical is a tricky subject, if you want to read something super interesting, thought provoking, and (at least
@@ -65,6 +66,7 @@ Neoessentialism is logical and follows first principles, by definition of what f
 should be sufficient for building towards our goals. If it is not then the error lies in our assumptions
 on what the first principles should be or in how we implement them in our reasoning. This is my current opinion.
 <br>
+<br>
 
 ### Fault  
 One of the most controvercial and *possibly* slightly illogical pillars of Neoessentialism is that of Fault. 
@@ -81,6 +83,7 @@ compatible dictionary to this repository at some point). To fully better yoursel
 actions as your fault but also your state. From that point you can either hate yourself (stupid), or start
 taking action to bring your state up, id est: setting goals and reaching them. 
 <br>
+<br>
 
 ### Forward  
 Action over innaction ALWAYS. It is better to take the wrong turn than take no turn at all. That is not to say
@@ -90,7 +93,7 @@ took to get there. The person who stagnates while waiting for the correct path t
 is one that will achieve much less, and will often compensate for their lack of action with outward pessimism
 aimed at the actions of others.
 <br>
-
+<br>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
