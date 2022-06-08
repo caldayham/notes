@@ -11,6 +11,12 @@ The ultimate goal is one of understanding, because to understand is to be free.
 <br>
 
 ## Overview  
+
+Real quick, this is not so much an ideology but more a documentation of how I live my life. It has evolved
+and will continue to evolve and change with my ethos at the center.  Ok, without further adue, read on
+fellow human.
+<br>
+
 What is your purpose? I have no fucking clue. 
 That said, I'm fairly certain that the first step is increasing your understanding. Doing 
 so will allow you to set higher goals, reach them faster, and compound at a much faster rate. 
@@ -38,8 +44,49 @@ type task, one that has many forward pointing benefits. There you go, Neoessenti
 ## Core-Tenants  
 
 ### Purpose  
+Neoessentialism is, at its root, a goal oriented framework. That is to say that it is built to help those
+who implement it partially or wholly with completing goals. The only goal that is specifically laid out 
+in Neoessentialism is the goal of understanding. 
+
 ### Logical  
+Logical is a tricky subject, if you want to read something super interesting, thought provoking, and (at least
+to me), a little frusterating, you should check out <a href="https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/"><strong>this</strong></a>
+book review on *Seeing Like a State* by James C. Scott, or just read the book yourself although I love 
+the commentary in the review and that I can read and digest it in an hour. Essentially the book talks about
+how reasoned solutions, such as square city blocks, often fail when compared to the naturally evolved 
+solution that was there before. This, while interesting, is a little frusterating to me. I am a fairly 
+"square edges and formulas" kinda guy (at least I often try to be). That said I think that there has been an 
+exponential advancement in society due to our attempts to create reasoned and more efficient solutions. We should
+not let the failures drive pessimism towards reasoned solutions, but we should also not expect that our 
+reasoning is perfect. Especially not on the first implementation. 
+
+Neoessentialism is logical and follows first principles, by definition of what first principles are this 
+should be sufficient for building towards our goals. If it is not then the error lies in our assumptions
+on what the first principles should be or in how we implement them in our reasoning. This is my current opinion.
+
 ### Fault  
+One of the most controvercial and *possibly* slightly illogical pillars of Neoessentialism is that of Fault. 
+The fault of your state lies on you. This works nicely when talking to a "successful" human (whatevery you
+define that as) but try telling a poor and raped human that the state they are in is their fault alone. Yet, 
+that is what I am doing. Am I privilaged to say this because I have never really faced things as horrible 
+as some? Possibly, it would definitely be more difficult to come to this conclusion if my state was less 
+comfortable (not that it is all that comfortable to be deciding if your life is worth it for the majority
+of your formative years). 
+
+All that said, if it is not your fault then whos is it? Who can change it? If you say that it may not be your 
+fault but you still can change it then I say we just have different deffinitions of fault (I will attatch a 
+compatible dictionary to this repository at some point). To fully better yourself you must accept not only your
+actions as your fault but also your state. From that point you can either hate yourself (stupid), or start
+taking action to bring your state up, id est: setting goals and reaching them. 
+
 ### Forward  
+Action over innaction ALWAYS. It is better to take the wrong turn than take no turn at all. That is not to say
+don't be patient, but it is a fine line between patience and stagnation. The person who makes the wrong turn,
+so long as they don't loose sight of their goal, will often come around and have learned many things from the path they
+took to get there. The person who stagnates while waiting for the correct path to their goal to make itself apparent 
+is one that will achieve much less, and will often compensate for their lack of action with outward pessimism
+aimed at the actions of others.
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
