@@ -35,6 +35,7 @@ Skills they will need:
 - git (version control)
 - some language (python on javascript probably, maybe rust)
 - command line, get comfortable with it, it is powerful.
+- touch typing, 100 wpm is not too hard to reach and makes working on the computer very nice, I use https://monkeytype.com to practice.
 - grit, never fucking give up, life is too short for that shit (but transferring your efforts to something that makes you more happy is fine)
 
 ### Number 7: 
