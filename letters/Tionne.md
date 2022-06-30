@@ -5,6 +5,8 @@
 
 <u>Ok so here’s a bit of a summary of what I was talking about in the car (keep in mind that I don’t have kids, although I was one not too long ago, and that there will always be unforeseen challenges). Also, when learning new things, especially with my generation and your kids generation, getting over the “this is way too hard and not worth the effort” hump is very difficult. I personally was stuck on the leading slope of that hill for about two years, knowing that coding would be an invaluable skill but being crushed by complexity and high learning curves, or so I thought. The key is to find rewards, preferably the rewards come from the coding and technical work itself, the feeling of seeing your name popup on a webpage after you type in “https://tionneskid.com” may be enough to get them to put in the next few hours of work for the next reward (and the rewards only get better as their skills increase!) That said, getting there is hard, you may need to step in and provide external rewards, don’t go crazy because they may come to expect it, and definitely don’t force it, this pushes most people away from coding. Coding is such a lovely thing, let them find that, and if they don’t, no problem! There are many other lovely things in life too!</u>
 
+<br/>
+<br/>
 
 ### Number 1:
 
