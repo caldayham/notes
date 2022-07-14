@@ -99,6 +99,17 @@ so long as they don't loose sight of their goal, will often come around and have
 took to get there. The person who stagnates while waiting for the correct path to their goal to make itself apparent 
 is one that will achieve much less, and will often compensate for their lack of action with outward pessimism
 aimed at the actions of others.
+
+How does one insure that they are progressing (at the fastest possible pace, and in the right direction)?
+3 simple steps: 
+	1) define your forward, it should be towards greater understanding but that path will look different
+	based on your setup. This is essentially setting your goal state, and be specific.
+	2) find your bottleneck, weakest link, progression block, etc, and eliminate it. (extreem focus and prioritization combined with 
+	logical and simple solutions that can often be copied directly from other people who have already had
+	your problem) then keep doing this, it is unreasonable to fail if you have truly eliminated your weakest points. But this is nearly the hardest part.
+	3) don't fucking quit, don't fucking settle, don't fucking quit. This is the hardest part because, as systems,
+	humans are very prone to low-enthalpy states, ie stagnation and regression. There is no passive rewards, only leveraged 
+	rewards.
 <br>
 <br>
 
