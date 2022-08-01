@@ -1,0 +1,15 @@
+# What are the essential things we need on our person, what exactly is their directive, and how should they be stored?
+
+**Level 1 essentials**
+- clothes (warmth, societal accomodations, mate attraction)
+
+**Level 2 essentials**
+- phone (camera, internet access, communication, storrage)
+- physical keys (car keys, house keys, mailbox, locks)
+- electronic keys (2FA Fido keys)
+- enhancers (glasses, drugs, )
+
+**Level 3 essentials**
+- backpack (container)
+- laptop
+- waterbottle
