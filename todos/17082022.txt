@@ -42,9 +42,9 @@
 	<> CI / CD for web app
 	<> launch EC2 hosted backend instance for web app
 	<> 
-	
+		
 <> fidget company with fynn
 	<> possible products: mini strandbeest desk toy, bearded dragon front pouch
 	
 <> eve routine 11:30
-<> bed by 12:00am
+</> bed by 2:00am
