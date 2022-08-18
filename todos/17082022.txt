@@ -1,24 +1,50 @@
-# TODOs for 17th of August, 2022
+# TODOss for 17th of August, 2022
 
-- up at 8:30am
-- no (phone AT ALL until noon, phone on toilet, completely wasted time)
+</> up at 8:30am
+<> no (phone AT ALL until noon, phone on toilet, completely wasted time, no picking face, eat low cal and high nutrients)
 
-- life
-	- call fedex and get package re-routed to CA
-	- 2 hours on room optimization
-	- 30 min of cleaning family house
-	- find a way to pay off entire Discover CC
-	- make small pasword notebook to keep on my person
-	- 
+<> life
+	</> call fedex and get package re-routed to CA
+	</> 2 hours on room optimization
+		</> clean and orgainize desk
+		</> think about wholistic room layout for optimal work environment
+	</> 30 min of cleaning family house
+	<> find a way to pay off entire Discover CC
+	<> make small pasword notebook to keep on my person
+	</> build bed-frame blackout box with curtains
+	<> 30 min on AHK resizing and batch files for more efficient work 
+	</> saturday finances with libre office calc sheet
+		</> consider best option for sheets
+	<> do a hard search for discord backup codes
+	<> design and print out container for essential electronics (prototype)
+	<> crypto wallet
+		<> figure out best, secure wallet
+		<> set up and transfer crypto from coinbase
+	<> make youtube video going over all things I learned / thought of during the cross country drive
+	</> label and store all memory items from minnesota
+	<> 
 	
-- marus / print
-	- 4 solid hours on site
-	- printer research
-		- reach out to EEB MDC peeps for referal
-		- reach out to formlabs for quote
-		- buy new printers (with referal discount)
-	- CI / CD for web app
-	- 
+<> fitness / health
+	</> eat low cal and high nutrition (kinda)
+	<> bike to foothills (slowly because of broken ankle)
+	<>
+
+<> marus / print
+	<> 4 solid hours on site
+		<> fix redux issue with initial page state
+		<> fix research page with fetched research with all the needed information
+			<> parts should be fetched via ID
+		<> make two new parts for the catalog
+	<> printer research
+		<> reach out to EEB MDC peeps for referal
+		<> reach out to formlabs for quote
+		<> buy new printers (with referal discount)
+	<> CI / CD for web app
+	<> launch EC2 hosted backend instance for web app
+	<> 
 	
-- eve routine 11:30
-- bed by 12:00am
+<> fidget company with fynn
+	<> possible products: mini strandbeest desk toy, bearded dragon front pouch
+	
+<> eve routine 11:30
+<> bed by 12:00am
