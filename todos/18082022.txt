@@ -4,19 +4,42 @@
 <> no (phone AT ALL until noon, phone on toilet, completely wasted time, no picking face, eat low cal and high nutrients)
 
 <> life
-	<> added research position to linkedin profile
+	</> added research position to linkedin profile
 	</> bike to foothills first thing in morning
-	<> shower
-	<> finish room (find place for clothes)
-	<> find board for top of bunk
+	</> shower
+	</> finish room (find place for clothes)
+	</> find board for top of bunk
 	<> make AHK window resizing scripts / hotkeys
 	<> set up ethernet and wifi booster in room
 	<> find a way to pay off entire Discover CC
 	<> add something to my personal website
-	<> look into email server hosting options
-	<> make script to easily search something on 
-	   youtube or google without having to see suggestions
+	<> personal email server
+		</> make caldayham-mail remote repository and clone to local
+		<> look into email server hosting options
+		<> watch luke smith video on hosting own email server (do it with same as my site?)
+		<> 
+	<> make script to easily search something on youtube or google without having to see suggestions
 	<> figure out phone audio / computer audio headset issue (which system owns what?)
+	</> get more buckets for office desk
+	</> finish blackout bunk roof
+	<> figure out what do with my clothes in room
+	<> get containers for under bed
+	</> make youtube video going over updates and things I learned on the road trip
+	</> clean kitchen
+	<> 
+	
+<> family
+	</> work with dad on bed frame addon
+	</> watch Barry (bill hader, love him) with family 
+	</> pick up chipotle for fam
+	<> 
+	
+	
+<> lower-entropy work
+	<> make primary notepad++ keyboard shortcuts the same as my vscode shortcuts
+	<> make container for my essential belongings that I keep on me
+		<> design in solidworks
+		<> print on my ender 3 pro FDM printer
 	<> 
 	
 <> marus group / print sci
@@ -28,5 +51,4 @@
 	<> reach out to Formlabs about form 3 SLA printer
 	<> 
 	
-<> eve routine 11:30pm
 <> bed by 12:00am
