@@ -3,7 +3,7 @@
 </> UP AT 7:00AM
 <> no 
 	<> phone AT ALL until noon
-	<> phone on toilet EVER
+	</> phone on toilet EVER
 	<> completely wasted time
 	<> no picking face
 
@@ -13,8 +13,8 @@
 	<> 
 	
 <> GENERAL
-	<> organize clothes 
-		<> get rid of ones I dont use
+	</> organize clothes 
+		</> get rid of ones I dont use
 	<> make AHK window resizing scripts / hotkeys
 	<> set up ethernet and wifi booster in room
 	<> find a way to pay off entire Discover CC
@@ -40,8 +40,8 @@
 	<> saturday finances
 	<> 
 
-<> FAMILY
 	<> dinner and Barry
+<> FAMILY
 	<> clean kitchen
 	<> clean back yard and house with dad
 	<> 

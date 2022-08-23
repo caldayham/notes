@@ -29,8 +29,8 @@
 	<> make container for my essential belongings that I keep on me
 		<> design in solidworks
 		<> print on my ender 3 pro FDM printer
-	<> design and print out toilet hinges to fix toilet
 	<> 
+	<> design and print out toilet hinges to fix toilet
 		
 <> FINANCE
 	<> pay down discover card / findance printer
