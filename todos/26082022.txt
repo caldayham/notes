@@ -1,21 +1,33 @@
 Action items for Cal on the 26th of August, 2022
 
-<> up at 7:30am
-<> quick bike to baylands
-<> 8:00am shower
+</> up at 7:30am
+</> quick bike to baylands
+</> 8:30am shower
 
 <> Self control action items
-	<> No snapchat recomended stories, and no going over 15 min day time limit
+	</> No snapchat recomended stories, and no going over 15 min day time limit
 	<> Search all youtube videos from search script and no recomended videos unless obviously positive
-	<> Youtube recomended should be allowed for 32 minutes after lunch, that is for the whole day
-	<> No Porn (closing in on three months without ever touching, almost a year since habit broken)
-	<> Tinder max 16 min 
+	<fail> Youtube recomended should be allowed for 32 minutes after lunch, that is for the whole day
+	</> No Porn (closing in on three months without any type, almost a year since habit broken)
+	</> Tinder max 16 min 
 	<> Just work, keep it simple stupid
+	<fail> Eat low calorie
 
-<> finish ecommerce lama dev tutorial
-<> finish search engine batch script beta
-<> fix window, get plexi from home depot
+<> Print Sci
+	<> finish ecommerce lama dev tutorial
+	<> fix about us page with proper text and personal website logo svg icon
+	<> 
+</> finish search engine batch script beta
+</> fix window, get plexi from home depot
 <> build part sand tumble polisher (pvc 4" tube and sealable cap)
+</> RECEIVE FEDEX QNAP NAS 
+<> setup QNAP NAS
+<> fix toilet hinges
+<> make personal website post
+</> do a random coding project (search batch script)
+<> look into ventiliation for bed
+<> saturday finance finish (last saturday)
+</> order hard drives for home NAS system (x3 IronWolf 8TB Pro NAS Hard drives)
 <> 
 
 <> eve shower 11:15pm
