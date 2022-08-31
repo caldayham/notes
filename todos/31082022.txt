@@ -1,17 +1,20 @@
 Action items for Cal on the 29th of August, 2022
 
-</> finish building and assembling tumble sander
-</> up at 7:00am
-</> minoxidil and finasteride
+<> up at 7:30am
+<> minoxidil and finasteride
 <> Self control 
-	<> no snapchat recomended stories
-	<FAIL> phone only to be opened for 10 minutes every 2 hours 
+	<> phone only to be opened for 10 minutes every 2 hours 
 		<> phone can be checked for notifications in case of neccesary response
 		<> but no going past lock screen unless absolutely neccessary 
+	<> there is a 20 minute "free internet dose" once per day, I decide
+	<> obv no porn (closing in on 200 days)
 
 <> Print Scientific
 	<> Admin-side 
 		<> get the data for statistics fetching properly and consistantly in the same order from the back-side
+		<> get product creation working from admin side (with images upload)
+		<> get or do research on email system and begin planning
+		<> 
 	<> Front-side
 		<> set up github actions for CI / CD AWS S3 deployment
 		<> 
@@ -24,12 +27,13 @@ Action items for Cal on the 29th of August, 2022
 <> write a post for my site (30 min)
 <> 1 hour room cable management (desk and closet)
 <> venthilation for bed?
-</> eat lunch with camron miller at amigos grill
-</> go for a hike with camron
-<>
+<> pay umn healthcare charges
+<> 
 
 <> health
-	<> go for small hike at cactus garden with andy wang
+	<> bike ride 
+	<> eat good low cal food
+	<> 
 
 <> bed by 12:00am 
 	
