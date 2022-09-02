@@ -1,0 +1,42 @@
+Action items for Cal on the 29th of August, 2022
+
+</> up at 7:30am
+</> minoxidil and finasteride
+<> Self control 
+	<> phone only to be opened for 10 minutes every 2 hours 
+		<> phone can be checked for notifications in case of neccesary response
+		<> but no going past lock screen unless absolutely neccessary 
+	<> there is a 20 minute "free internet dose" once per day, I decide
+	<> obv no porn (closing in on 200 days)
+
+<> Print Scientific
+	<> Admin-side 
+		<> get the data for statistics fetching properly and consistantly in the same order from the back-side
+		<> get product creation working from admin side (with images upload)
+		<> get or do research on email system and begin planning
+		<> 
+	<> Front-side
+		<> set up github actions for CI / CD AWS S3 deployment
+		<> fix about us page (make profesional)
+		<> fix research page ()
+		<> 
+	<> Back-side
+		<> deploy to ec2 on AWS
+	<> get site prepared for reaching out to low lab (DO IT!!)
+	<> JUST FINISH THE GD TUTORIAL, NOT THAT HARD, JUST WORK THROUGH IT
+	</> set up aws cli and use to do auto s3 sync with a package.json "deploy" command
+	
+</> set up aws cli s3 sync for personal website
+</> work on personal website contact and home pages
+<> 1 hour room cable management (desk and closet)
+<> venthilation for bed?
+</> pay umn healthcare charges
+<> saturday finances
+
+<> health
+	</> hike at foothills and workout at ymca
+	<kinda fail> eat good low cal food
+	<> 
+
+<> bed by 12:00am 
+	
