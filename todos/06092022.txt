@@ -18,14 +18,17 @@ Action items for Cal on the 6th of September, 2022
 		</> fix research page (get proper research papers, low / grande lab)
 		<> get email box working (super critical, and fun!)
 		<> automate cloudfront invalidations to update cdn caches
-	<> Back-side
 		<> deploy to ec2 on AWS
+	<> Back-side
 	<> get site prepared for reaching out to low lab (DO IT!!)
-	<> JUST FINISH THE GD TUTORIAL, NOT THAT HARD, JUST WORK THROUGH IT
+	</> JUST FINISH THE GD TUTORIAL, NOT THAT HARD, JUST WORK THROUGH IT
 	<> Manufacturing
 		<> start a print on the new 8k SLS 3d printer
 		<> build cnc engraver for product packaging
 		<> build 3 axis cnc milling machine
+		</> sign for SLS sinterit printer kit!
+			<> bedin assembly!
+			<>
 	<> Sales
 		<> begin assembling client list and contact information in a sheet
 		
@@ -39,8 +42,9 @@ Action items for Cal on the 6th of September, 2022
 <> make shelf for room stuff (oculus and such)
 
 <> health
-	<> 1 hour hard beatsaber
-	<> eat good low cal food, caffine if neccessary, if hungry = water and beatsaber
+	</> 1 hour hard beatsaber
+	</> eat good low cal food, caffine if neccessary, if hungry = water and beatsaber
+	</> hike with andrew wang at foothills
 
-<> bed by 12:00am 
+</> bed by 12:30am 
 	
