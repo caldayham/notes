@@ -1,13 +1,12 @@
-Action items for Cal on the 14th of September, 2022
+Action items for Cal on the 15th of September, 2022
 
-</> up at 8:00am (8 hours)
-</> record weight (190 to 170 in 200 days) [188.9lbs]
-</> fast breaking meal (10g plain oatmeal with water, 1 raw egg, 200mg caffine)
+</> up at 8:00am (2 hours)
+</> record weight (190 to 170 in 200 days) [188.lbs]
+</   > Self control 
 </> minoxidil and finasteride
-<> Self control(kinda)
 	<> NO YOUTUBE SHORTS (YOUTUBE ONLY FOR LEARNING GOOD SKILLS)
 	<> NO SNAPCHAT RECOMENDED STORIES (SNAPCHAT ONLY FOR COMMUNICATING AND UNDERSTANDING WHAT FRIENDS ARE UP TO)
-	<> continue: no porn, no insta, low calorie
+	</> continue: no porn, no insta, low calorie
 
 <> work
 	<> finish entire SLS printer sintratec kit build and install in workshop 
@@ -15,32 +14,27 @@ Action items for Cal on the 14th of September, 2022
 		<> run first prints
 	<> print sci dynamoDB get it working
 	<> sew together fake mouse and rat (basic shape, no facial features or limbs)
+	<> build custom, accurate (+/- 0.5mm) cnc laser etcher for putting labels on boxes
 
 <> social
 	<> email back grandam lynne response
-	</> reach out to two of my friends and let them know I care in some way
+	<> start making list of all friends I care about, emails, phone numbers, etc
 	
 <> body health
 	<> stay motivated for my goals
-	<> workout for at least 1 hour
+	</> workout for at least 1 hour (beatsaber)
 	
 <> personal
-	</> watch bradely cooper chef movie, nice movie, made me motivated i think
-	</> update computer
-	</> contact discord
-	</> buy soldering station and headphones for computer
+	</> haircut (buzz-cut, my first hair cut)
+	</> text louis
+	</> set up soldering station in my room
+	</> move scrap wood to scrap wood shelf
 	<> figure out which are my essential passwords and get them all in  one place and not digital
-	<> clean back yard after yesterday desk build
 	<> find permanent homes for 4  more boxes of stuff from old workshop and work through 2 pounds of loose items
-	<> build scrap wood shelf for back wall of workshop
-	<> haircut (buzz-cut)
-	<> text louis
 	<> write about centralization vs decentralization in thought spills
-	<> start designing arm extensions
 	
-</> drive to sanfransisco at 2 am to hang out with maya, a woman I met on tinder the day prior, not a good move, lost sleep,
-	she was not attractive and it was not a good use of time, but the drive to davis and back in the morning was fun. Nothing happened with her, I was no way into it at all.
-</> bed by 5am
+</> eve routine 10:15- 10:45pm (shower, prep tomorrows schedule, jack off or sex)
+</> bed by 10:45pm (to be up by 6:30am for 8 hours)
 
 
 
@@ -51,4 +45,4 @@ SAVED FOR LATER
 	<> buy house for growth phase 3 (talk to neighbor jean//)
 	<> buy hardware storage solutions for workshop
 	<> get back discord account
-	<> 
+	<> build complete 42arm (arm extensions for further reach and grip and such) 
