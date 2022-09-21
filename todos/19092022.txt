@@ -1,47 +1,48 @@
-Action items for Cal on the 18th of September, 2022
+Action items for Cal on the 19th of September, 2022
 
-</> up at 7:30am (8.5hr)
+</> up at 7:30am (8hr)
 </> record weight (190 to 170 in 200 days) [189.0lbs]
-</> Self control (ULTRA IMPORTANT TODAY)
-</> 1 raw egg, 20g dry oatmeal, water
+</> Self control    
+<other breakfast> 1 raw egg, 20g dry oatmeal, water
 </> minoxidil and finasteride
-	<fail> NO YOUTUBE SHORTS (YOUTUBE ONLY FOR LEARNING GOOD SKILLS)
-	<fail> NO SNAPCHAT RECOMENDED STORIES (SNAPCHAT ONLY FOR COMMUNICATING AND UNDERSTANDING WHAT FRIENDS ARE UP TO)
+	</> NO YOUTUBE SHORTS (YOUTUBE ONLY FOR LEARNING GOOD SKILLS)
+	</> NO SNAPCHAT RECOMENDED STORIES (SNAPCHAT ONLY FOR COMMUNICATING AND UNDERSTANDING WHAT FRIENDS ARE UP TO)
 	</> continue: no porn, no insta, low calorie
 
 <> work
-	</> IMPORTANT: check if second yellow/blue ground cable needs to be connected to the second power supply and if so connect it
-	<> run first print on sintratec kit printer (tomorrow)
+	</> FIX DISTRIBUTOR SENSOR POSITION (CRUCIAL)
+	<> CALIBRATE SLS PRINTER   
+	<> run first print on sintratec kit printer
 	<> print sci dynamoDB get it working
 	<> sew together fake mouse and rat (basic shape, no facial features or limbs)
-	</> order product label paper and possibly printer
-	</> order vaccuum bag rolls for product packaging
 	<> download and setup sla printer software
 	<> run test print on sla printer
+	<> add "industry" with starting begin "research / medical" to print scientific front end
+	<> re-think backend needs / redesign thoughtfully (1 hour)
+	<> add clear search bar to front end
 
 <> social
-	</> lunch with fynn, vince, arthur at amigos grill
+	</> hang with cameron miller
 	<> email back grandam lynne response
-	</> add 8 people to the friend list
+	<> add 8 people to the friend list, add numbers for everyone thus far
 	
 <> body health
 	</> beatsaber 1 hour
+	</> rock climb with cameron miller
 	
 <> mental
-	</> stay motivated to complete my goals
+	<bit of a fail today, but everyone has off days> stay motivated to complete my goals
 	</> stay optimistic and thoughtfull 
 	
 <> other 
-	</> bike to cal av farmers market and get some fresh food, then paly highschool for nostalgia
 	<> figure out which are my essential passwords and get them all in  one place and not digital
 	<> find permanent homes for 8 more boxes of stuff from old workshop and work through 2 pounds of loose items
 	<> write about borrowing and finance and what you (I) should do with my time and money to optimize for my goal (understanding)
 	<> spend 20 min trying hard to get discord account back
 	<> learn how to install cusom songs on oculus for beatsaber and also mods for the game
-	</> start repository of dated note sheets
 	
-<> eve routine 10:00 - 10:30pm (shower, prep tomorrows schedule, jack off or sex)
-<> bed by 10:30pm (to be up by 7:30am for 8 hours)
+<> eve routine 11:00 - 11:30pm (shower, prep tomorrows schedule, jack off or sex)
+<> bed by 11:30pm (to be up by 7:30am for 8 hours)
 
 
 
