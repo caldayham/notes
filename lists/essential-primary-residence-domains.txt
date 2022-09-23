@@ -1,10 +1,17 @@
 # Primary residence is defined as the location where you interact with your most integral physical items
 # Domains in this context are physical classes of either locations or types of items 
 
-<> Bathroom [toilet, shower, tub, sink, toiletries]
+<> Bathroom(s) [toilet, shower, tub, sink, toiletries]
 <> Kitchen [food storage and preparation]
 <> Pantry [long term bulk storage for food]
-<> Bedroom [sleeping, resting]
-<> Office [working, computer, binders, some tools]
+<> Bedroom(s) [sleeping, resting]
+<> Office(s) [working, computer, binders, some tools]
 <> Workshop [large tools, hand held tools, building materials, outlets]
-<> Network Room []
+<> Network Room [router, ethernet switches, fiber optic connections, etc]
+<> Server Room [servers, network atatched storage]
+<> Indoor meeting area
+<> Indoor recreation area
+<> Outdoor meeting area
+<> Outdoor recreation area
+<> Storrage Room [large labeled sliding drawrs and such, everything accessible]
+<>  
