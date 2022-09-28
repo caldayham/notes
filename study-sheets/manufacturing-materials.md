@@ -33,4 +33,10 @@ Specifically I will focus on:
 ### Silica  
 ### Feldspar  
 
+## Other  
+
+### Acrylates
+#### Cyanoacrylates
+
+
 
