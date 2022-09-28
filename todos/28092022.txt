@@ -1,50 +1,38 @@
-Action items for Cal on the 27th of September, 2022
+Action items for Cal on the 28th of September, 2022
 TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!!
 
 ---------------------------------------------------
 
-</> up at 7:30am (8hr)
-</> record weight (190 to 170 in 200 days) [190.6lbs]
+<> up at 8:30am (8hr)
+<> record weight (190 to 170 in 200 days) [190.6lbs]
 </> Self control 
 	</> continue: no porn, no insta, low calorie diet
 	</> no non-educational youtube or snapchat recomended page
-</> minoxidil and finasteride
+<> minoxidil and finasteride
 
 ---------------------------------------------------
 
 <> work
 	<> front-end print-sci website work
-		</> set up auto cloudfront cache clearing aws cli command
-		</> get neonavbar working to 100%
 		<> set up account page and get account login and registration working
 		<> work on stripe payment element for website
 	<> back-end print-sci website work
 		<> print sci dynamoDB get it working
 		<> get backend running on EC2 or whatever works for production
 		<> set up CI/CD solution for EC2 or whatever the production servers will run on (docker images?)
-	<> sintratec sls printer work
-		</> re-adjust laser calibration
-		</> make sure laser glass is clear and there is no fiber glass near the laser path
-		</> run another test print (amazing!!!)
-	</> come up with good use for louis's time that is trackable and motivating and useful
-	</> purchase materials (PETG fillament in various colors, PA-Carbon fiber fillament, cyanoacrylate glue, polyurethane spray)
-	
 	
 ---------------------------------------------------
 
 <> social / emotional (essential for not-kms-engine lol)
 	<> spend 30min working on contacts list
-	</> set up new discord account (calhamday@gmail.com) to access discord, friend jem and freddie
-	</> great talks with dad and fynn
-	</> call mum in canada <3
+	<> successfully rejoin farmer cal discord server with new acocunt
 	
 ---------------------------------------------------
 
 <> ability and understanding growth-producting actions (education)
-	</> begin composing a document containing all materials that should be understood
 	<> watch and take notes on cs50 first video https://www.youtube.com/watch?v=1tnj3UCkuxU&list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL&index=2
 	<> work through https://www.youtube.com/watch?v=fPuLnzSjPLE 
-	</> learn about dynamodb for 30 min
+	<> 30 minutes working and studying manufacturing materials and adding to the doc
 
 ---------------------------------------------------
 	
@@ -54,13 +42,11 @@ TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!!
 	<> buy fine masonry sand
 	   <> build aluminum / other metals forge
 	<> clean entire side area of house 
-	</> beatsaber 1 hour workout
-	</> one arm handstand 10 seconds!!!
 	
 ---------------------------------------------------
 	
-</> eve routine 12:00 - 12:30pm (shower, prep tomorrows schedule, jack off or sex)
-</> bed by 12:30pm (to be up by 8:30am for 8 hours)
+<> eve routine 11:00 - 11:30pm (shower, prep tomorrows schedule, jack off or sex)
+<> bed by 11:30pm (to be up by 7:30am for 8 hours)
 
 ---------------------------------------------------
 
