@@ -1,13 +1,15 @@
 Action items for Cal on the 28th of September, 2022
-TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!!
 
 ---------------------------------------------------
+TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!! 
+THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY ACTION AND UNDERSTANDING.
+---------------------------------------------------
 
-</> up at 8:30am (8hr)
+</> up at 7:30am (8hr)
 </> record weight (190 to 170 in 200 days) [192.6lbs]
 </> Self control 
 	</> continue: no porn, no insta, low calorie diet
-	</> no non-educational youtube or snapchat recomended page
+	</> no non-educational youtube (deleted snapchat)
 <> minoxidil and finasteride
 
 ---------------------------------------------------
@@ -20,6 +22,11 @@ TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!!
 		<> print sci dynamoDB get it working
 		<> get backend running on EC2 or whatever works for production
 		<> set up CI/CD solution for EC2 or whatever the production servers will run on (docker images?)
+	<> print sci directors meeting
+		</> make primary presentation
+		<> make my action item presentation(s)
+		<> present my action item progress
+		<> give feedback on louis's action item progress
 	
 ---------------------------------------------------
 
@@ -45,7 +52,6 @@ TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!!
 	<> buy fine masonry sand
 	   <> build aluminum / other metals forge
 	<> clean entire side area of house 
-	</> weld scope mount back onto my benjamin riffle (nitro-piston) using mig welder hooked up to dry ice co2 bubbler lol!
 	
 ---------------------------------------------------
 	
