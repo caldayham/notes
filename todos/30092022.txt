@@ -5,8 +5,8 @@ TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!!
 THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY ACTION AND UNDERSTANDING.
 ---------------------------------------------------
 
-</> up at 7:30am (8hr)
-</> record weight (190 to 170 in 200 days) [192.6lbs]
+<> up at 9:00am (8hr, no snooze, sleep for purpose, but wake is when understanding is obtained and ability is utilized)
+<> record weight (190 to 170 in 200 days) [192.6lbs]
 </> Self control 
 	</> continue: no porn, no insta, low calorie diet
 	</> no non-educational youtube (deleted snapchat)
@@ -15,7 +15,6 @@ THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY 
 ---------------------------------------------------
 
 <> work
-	</> redesign tflow mask and make prints on fdm printer
 	<> front-end print-sci website work
 		<> set up account page and get account login and registration working
 		<> work on stripe payment element for website
@@ -28,7 +27,6 @@ THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY 
 		<> make my action item presentation(s)
 		<> present my action item progress
 		<> give feedback on louis's action item progress
-	</> order valves and connectors and tubing for kits
 	
 ---------------------------------------------------
 
@@ -36,7 +34,6 @@ THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY 
 	<> spend 30min working on contacts list
 	<> successfully rejoin farmer cal discord server with new acocunt
 	<> send sayuj 300USD on wise.com 
-	</> go for night drive with fynn / drop off dad at airport
 	
 ---------------------------------------------------
 
@@ -48,7 +45,7 @@ THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY 
 ---------------------------------------------------
 	
 <> other 
-	</> START write up meal plan
+	<> 20 min on meal plan
 	<> figure out which are my essential passwords and get them all in  one place and not digital
 	<> write about borrowing and finance and what you (I) should do with my time and money to optimize for my goal (understanding)
 	<> buy fine masonry sand
