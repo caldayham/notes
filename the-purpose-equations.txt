@@ -1,0 +1,38 @@
+------------------------------------
+THE PURPOSE EQUATIONS
+------------------------------------
+
+--------
+TERMS
+--------
+P = Purpose
+A = Ability
+t = time
+D = Desired results
+E = Environment
+U = Understanding
+I = Information (data)
+IPS = Information processing speed(reading, writing) 
+Mem = Memory capacity 
+
+
+purpose = to maximize ones ability
+ability = possession of the means, understanding, and time to manifest (procure) desired results (should "time" be inculded in "means"?)
+action = energy expenditure in the pursuit of manifesting a desired result
+understanding = map of information nodes, what things are and mean
+time = 
+means = physical tools and building materials, substrate
+
+
+
+
+ability rate = the rate of desired result manifestation over time (or another marking unit)
+ability scope = the scope of ones desired result manifestation
+
+desired results = (tools + substrate) * understanding * action * time
+scope of desired result manifestation
+
+
+
+
+ability = (ones previous ability) - ((the rate of ability loss per unit time)*(∆time)) + (understanding * action)

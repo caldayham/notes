@@ -1,17 +1,60 @@
 # Primary residence is defined as the location where you interact with your most integral physical items
 # Domains in this context are physical classes of either locations or types of items 
 
+
 <> Bathroom(s) [toilet, shower, tub, sink, toiletries]
+
 <> Kitchen [food storage and preparation]
+
 <> Pantry [long term bulk storage for food]
-<> Bedroom(s) [sleeping, resting]
-<> Office(s) [working, computer, binders, some tools]
+
+<> Bedroom(s) [sleeping, resting, reading, relaxing, sex]
+
+<> Office(s) [working, computer, binders, some tools, house monitoring system (cam feeds from everywhere, power supply monitoring)]
+
 <> Workshop [large tools, hand held tools, building materials, outlets]
+	<> Metal section
+	<> Wood / plastics section
+	<> Chemicals section
+	<> Casting section
+	<> Hardware section
+	<> Mechanics section
+	<> Tools section
+
+<> Materials shed
+
 <> Network Room [router, ethernet switches, fiber optic connections, etc]
+
 <> Server Room [servers, network atatched storage]
+
 <> Indoor meeting area
 <> Indoor recreation area
+
 <> Outdoor meeting area
 <> Outdoor recreation area
+
 <> Storrage Room [large labeled sliding drawrs and such, everything accessible]
-<>  
+
+<> Garrage [2 cars, 2 boats, a plane, a helicopter, 2 atv's, mountain bikes, road bikes]
+
+<> Range [shooting, testing vehicles]
+
+<> Power room [batteries, backup generators]
+
+<> Elevated lake [for water energy storage]
+
+<> Generator room [water pressure generator (from lake), pump to pump excess water up, water intake, water input]
+
+<> Hydroponic gardens [veggies and fish, grown and maintained by an on-site grounds-keeper]
+
+
+
+<> Forrest [exploaring, hunting grounds]
+
+<> River
+
+<> Lakes
+
+<> Planes [grass]
+
+<> Heli-pad, and runway
