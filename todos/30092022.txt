@@ -5,8 +5,8 @@ TIME IS LIMITED FOR NOW, USE WHAT YOU HAVE!!
 THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY ACTION AND UNDERSTANDING.
 ---------------------------------------------------
 
-<> up at 9:00am (8hr, no snooze, sleep for purpose, but wake is when understanding is obtained and ability is utilized)
-<> record weight (190 to 170 in 200 days) [192.6lbs]
+</> up at 9:00am (8hr, no snooze, sleep for purpose, but wake is when understanding is obtained and ability is utilized)
+</> record weight (190 to 170 in 200 days) [190.6 lbs]
 </> Self control 
 	</> continue: no porn, no insta, low calorie diet
 	</> no non-educational youtube (deleted snapchat)
@@ -15,12 +15,15 @@ THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY 
 ---------------------------------------------------
 
 <> work
+	</> purchase printsci.com domain
+	</> set up front end website to route to printsci.com (update CI / CD commands in package.json too)
 	<> front-end print-sci website work
 		<> set up account page and get account login and registration working
 		<> work on stripe payment element for website
 	<> back-end print-sci website work
 		<> print sci dynamoDB get it working
 		<> get backend running on EC2 or whatever works for production
+		<> watch / implement https://www.youtube.com/watch?v=b0g-FJ5Zbb8
 		<> set up CI/CD solution for EC2 or whatever the production servers will run on (docker images?)
 	<> print sci directors meeting
 		</> make primary presentation
@@ -38,16 +41,22 @@ THE PURPOSE OF LIFE IS MAXIMIZING ABILITY, ABILITY IS CREATED AND MAINTAINED BY 
 ---------------------------------------------------
 
 <> ability and understanding growth-producting actions (education)
+	</> learn from https://www.youtube.com/watch?v=2k2GINpO308 (dynamodb)
+	<> learn from https://www.youtube.com/watch?v=7QFUEh-FYYE (audit data tables for data bases)
+	<> mail.js (maybe?) https://www.youtube.com/watch?v=bMq2riFCF90
 	<> watch and take notes on cs50 first video https://www.youtube.com/watch?v=1tnj3UCkuxU&list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL&index=2
 	<> work through https://www.youtube.com/watch?v=fPuLnzSjPLE 
 	<> 30 minutes working and studying manufacturing materials and adding to the doc
+	</> learn about dynamoDB (be a better dev on youtube)
 
 ---------------------------------------------------
 	
 <> other 
+	</> write simple jump directory script to quickly get to common directories
+	</> 1 hour beatsaber
 	<> 20 min on meal plan
 	<> figure out which are my essential passwords and get them all in  one place and not digital
-	<> write about borrowing and finance and what you (I) should do with my time and money to optimize for my goal (understanding)
+	</> write about borrowing and finance and what you (I) should do with my time and money to optimize for my goal (understanding)
 	<> buy fine masonry sand
 	   <> build aluminum / other metals forge
 	<> clean entire side area of house 
