@@ -1,0 +1,11 @@
+Doc_Purpose = '
+	To help me list my options and opinions on social gatherings I would enjoy so I can possibly narow it down and pursue one or two to make sure my metal state is as good as possible
+'
+
+Items = [
+	climbing at planet granite with cameron and meet new friends there
+	take a class or two at foothills community college
+	
+]
+
+	
