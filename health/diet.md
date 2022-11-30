@@ -19,11 +19,20 @@
 --------------------------------------------------------------------------------
 Meal 1 options
 --------------------------------------------------------------------------------
-	<> Whole fruit of some sort, ~100kcal 
+	<> Apple, 2 raw eggs, greens -> (95 + 2(72)) ~ 240
+	<> 1/2 cup brown rice, 1 tin of salmon, greens => (220 + 40) ~ 260
+	
+	
 	<> Beans / legeums of some sort
 	<> Whole grains
 	<> Sweet or regular potatoes
 	<> 
 
+
+Rules:
+	<> eat minnimum ammount when hungry
+	<> don't eat when not hungry
+	<> always have a goal weight, if you're above it, eat less to the point where you begin to go back to your goal weight, if you're below, eat a little more
+	<> don't have food be a tool for anything other than unavaoidable fule
 
 

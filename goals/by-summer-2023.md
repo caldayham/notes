@@ -1,7 +1,7 @@
 # Cal's goals for summer 2023  
 
 ### Financial / Business  
-	<> 10M anulalized revenue for Print Scientific or Marus Group
+	<> 10M anulalized revenue for Print Sci or Marus Group
 	<> 100k spending budget for the cottage
 	<> buy my primary residance in bay area, california (minimum 16 acres)
  

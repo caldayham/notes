@@ -3,9 +3,14 @@ Doc_Purpose = '
 '
 
 Items = [
-	climbing at planet granite with cameron and meet new friends there
-	take a class or two at foothills community college
-	
+	climbing at planet granite with cameron and meet new friends there,
+	take a class or two at foothills community college,
+	find a biking group,
+	norcal crew rowing job (might be a no-go),
+	find a local programming club,
+	stanford frat parties,
+	clubbing in san fransisco or san jose,
+	workout / armwrestling club in the bay area
 ]
 
 	

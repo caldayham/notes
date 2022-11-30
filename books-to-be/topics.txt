@@ -8,3 +8,32 @@ radical volitility and opposite body equilibrium governance
 
 the instant death framework and building a timeless ego
 
+radical solution genesis and distilation
+
+scope maximizing, noticing over-scoping, and 
+
+the string of you, building a real self 
+
+
+reprogramming for getting your cake and eating it too, or icarus metaphor, you can get the best and not pay any consequences
+
+
+
+
+
+
+------------------
+
+
+air gap trade protocol
+	- simple (the security does not arrise from chaos or complexity)
+	- provably secure (simplicity such that each step can be logically summed to deduce a secure process)
+	- clear bounds (scenarios where the system would break)
+	
+	
+Secure drop (if there were cameras pointing right at you during the drop, and they new exactly when it happened, could they deduce it's you?)
+Secure pickup (retreival of the item to be given in return, often money, must be easy and secure, untracable)
+Secure communication (how do you tell the end-party where to pick up and what to do?) 
+
+No trust needed (for the airgapped party, the end-user or distributor must employ trust)
+
