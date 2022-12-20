@@ -14,7 +14,7 @@
 	<> be able to do flare for 1 minute
 	<> 1 arm handstand for 1 minute both arms
 	<> easy and clean backflips on any ground (confident)
-	<> full planche (streight legs and arms)
+ 	<> full planche (streight legs and arms)
 	
 ### Other
 	<> Type at 120 wpm average 
