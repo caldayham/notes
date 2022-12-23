@@ -22,8 +22,9 @@
                                  &&&&&*      %#(///                                                 
                                 /,             ,, (,                                                
                             (*, .                   /,..                                            
-                             .(*                    (/*,,                                           
-==============================
+                             .(*                    (/*,,      
+
+====
 
 ## Table of contents  
 <> Legality and ethics  
@@ -96,7 +97,8 @@ Ingest alongsite a monoamine oxidase inhibitor
 
 ## Personal improvement with NN-DMT  
 
-==============================
+====
+
                                                                                                                                                                       .**,.....                         
                                                                                                                                                                      ,(/*,,. ...                        
                                                                                                                                                                       ((//**,,,.                        
