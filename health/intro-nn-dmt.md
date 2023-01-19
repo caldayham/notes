@@ -87,11 +87,23 @@ Extracting NN-DMT is the most simple and safe way to acquire small and even quit
 <br/>
 
 ## How to synthesize NN-DMT  
+
+Reaction of indole with oxalyl chloride followed by reaction with dimethylamine and reduction of the carbonyl functionalities with lithium aluminum hydride to form DMT.
+https://erowid.org/library/books_online/tihkal/tihkal06.shtml
+
 ## Ways to consume NN-DMT  
 
 Smoke
 Vaporize
-Ingest alongsite a monoamine oxidase inhibitor
+	<> Oral administration of DMT alone is rendered neurochemically inactive by MAO during first-pass metabolism.
+hoIngest alongsite a monoamine oxidase inhibitor
+	<> This is why a MAO inhibitor (MAOI) is needed
+	<> harmaline and/or harmine or other MAOIs, pharmahuasca, 50 mg DMT:100 mg harmaline
+	<> The harmalas and DMT are typically put into separate gelatin capsules, with the harmaline/harmine being taken first and the DMT being taken 15 to
+20 min later. 
+Intramuscular
+Intravenously
+Insufflation
 
 <br/>
 
